@@ -1,0 +1,1 @@
+from ai.knn import model

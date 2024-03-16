@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  gog-task:
+    container_name: gog-task
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    environment:
+      - MODEL_NAME=knn

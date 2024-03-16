@@ -1,0 +1,7 @@
+typing~=3.7.4.3
+pandas~=2.2.1
+scikit-learn~=1.4.1.post1
+numpy~=1.26.4
+LibRecommender~=1.4.0
+tensorflow~=2.16.1
+torch~=2.2.1
